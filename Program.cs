@@ -36,7 +36,7 @@ class Employee
         array2[4] = "Учитель";
         employee1.name = "Кирилл";
         employee1.post = array2[0];
-        employee1.salary = array[0];
+        employee1.salary = array[0];    
         employee2.name = "Вадим";
         employee2.post = array2[1];
         employee2.salary = array[1];
